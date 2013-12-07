@@ -213,5 +213,9 @@ body {
 }
 
 .txt-mid {
-  margin-top: 30px;
+  margin-top: 0px;
+}
+
+p {
+  font-size: 18px;
 }
