@@ -207,3 +207,11 @@ body {
 .head-text {
   color: #5a5a5a;
 }
+
+.txt-right {
+  text-align: right;
+}
+
+.txt-mid {
+  margin-top: 30px;
+}
