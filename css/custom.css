@@ -45,6 +45,7 @@ body {
 .carousel-caption {
   z-index: 10;
   color: #2c3e50;
+  text-shadow: none;
 }
 
 /* Declare heights because of positioning of img element */
@@ -203,3 +204,6 @@ body {
   height: 100px
 }
 /* End carousel */
+.head-text {
+  color: #5a5a5a;
+}
